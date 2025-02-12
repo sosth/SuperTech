@@ -4,8 +4,6 @@
 
 Ecommerce website built with NextJs.
 
-- Demo live: https://awesome-gear-shop.vercel.app/
-
 ## Features
 
 - Registration
